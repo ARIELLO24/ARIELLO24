@@ -1,17 +1,17 @@
-# Bem-vindo ao meu Mundo !!!
+# WELCOME TO MY WORLD!!!
 
-## Sobre Mim - O DEUS DA PROGRAMAÇÃO
+## About Me - THE GOD OF PROGRAMMING
 
-Olá! Meu nome é **ARIEL LORENZ** e tenho **16** anos.  
-Sou um programador apaixonado por tecnologia e inovação.
+Hello! My name is **ARIEL LORENZ** and i have **16** years.  
+I'm a programmer passionate about technology and innovation.
 
-## Habilidades
+## Skills
 
-- **Linguagens de Programação**: Python, JavaScript, TypeScript, Java
+- **Programming Languages**: Python, JavaScript, TypeScript, Java
 - **Frameworks**: React, Node.js
-- **Ferramentas**: Git, Docker
-- **Outras Habilidades**: Desenvolvimento Ágil, Testes Automatizados, DevOps
-
+- **Tools**: Git, Docker
+- **Other Skills**: Agile Development, Automated Testing, DevOps
+  
 ![image](https://github.com/user-attachments/assets/4d72d593-25f0-46fa-9324-7dc2e13f41bb)
 ![image](https://github.com/user-attachments/assets/13379199-baed-4317-9d64-d7dc327def48)
 ![image](https://github.com/user-attachments/assets/03a804f1-bb8a-48c1-8cb3-bb5cb0511de4)
@@ -22,14 +22,14 @@ Sou um programador apaixonado por tecnologia e inovação.
 
 
 
-## Projeto Principal
+## Main Project
 
-### Projeto 1: Portifolio-24
+### Project 1: Portifolio-24
 
-- **Descrição**: Um portifolio para demonstrar meus dotes de garoto de programa.
-- **Tecnologias Utilizadas**: HTML, CSS, JavaScript
+- **Description**:A portfolio to demonstrate my prostitute skills.
+- **Technologies Used**: HTML, CSS, JavaScript
 
 ---
 
-Obrigado por visitar meu perfil!  
-Fique à vontade para explorar meus projetos e entrar em contato.
+Thank you for visiting my profile!
+Feel free to explore my projects and get in touch.
