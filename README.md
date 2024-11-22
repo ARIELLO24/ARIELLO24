@@ -8,8 +8,8 @@ Sou um programador apaixonado por tecnologia e inovação.
 ## Habilidades
 
 - **Linguagens de Programação**: Python, JavaScript, TypeScript, Java
-- **Frameworks**: React, Node.js, Django
-- **Ferramentas**: Git, Docker, Kubernetes
+- **Frameworks**: React, Node.js
+- **Ferramentas**: Git, Docker
 - **Outras Habilidades**: Desenvolvimento Ágil, Testes Automatizados, DevOps
 
 ## Projeto Principal
