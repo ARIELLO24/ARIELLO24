@@ -1,8 +1,9 @@
 # Bem-vindo ao meu Mundo !!!
 
-## Sobre Mim DEUS DA PROGRAMAÇÃO
+## Sobre Mim O DEUS DA PROGRAMAÇÃO
 
 Olá! Meu nome é **[ARIEL LORENZ]** e tenho **[16]** anos. Sou um programador apaixonado por tecnologia e inovação.
+
 
 ## Habilidades
 
@@ -10,6 +11,7 @@ Olá! Meu nome é **[ARIEL LORENZ]** e tenho **[16]** anos. Sou um programador a
 - **Frameworks**: React, Node.js, Django
 - **Ferramentas**: Git, Docker, Kubernetes
 - **Outras Habilidades**: Desenvolvimento Ágil, Testes Automatizados, DevOps
+
 
 ## Projeto principal
 
