@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @ARIELLO24
-- 👀 I’m interested in Woman
-- 🌱 I’m currently learning pai rico pai pobre
-- 💞️ I’m looking to collaborate on FelipeAC04
+# Bem-vindo ao meu Mundo !!!
+
+## Sobre Mim DEUS DA PROGRAMAÇÃO
+
+Olá! Meu nome é **[ARIEL LORENZ]** e tenho **[16]** anos. Sou um programador apaixonado por tecnologia e inovação.
+
+## Habilidades
+
+- **Linguagens de Programação**: Python, JavaScript, TypeScript,Java
+- **Frameworks**: React, Node.js, Django
+- **Ferramentas**: Git, Docker, Kubernetes
+- **Outras Habilidades**: Desenvolvimento Ágil, Testes Automatizados, DevOps
+
+## Projeto principal
+
+### Projeto 1: [Portifolio-24]
+- **Descrição**: Um portifolio para demostrar meus dotes de garoto de programa.
+- **Tecnologias Utilizadas**: HTML, CSS,JavaScript.
 
 
-<!---
-ARIELLO24/ARIELLO24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
