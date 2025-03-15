@@ -16,6 +16,9 @@ I'm a programmer passionate about technology and innovation.
 ![image](https://github.com/user-attachments/assets/13379199-baed-4317-9d64-d7dc327def48)
 ![image](https://github.com/user-attachments/assets/03a804f1-bb8a-48c1-8cb3-bb5cb0511de4)
 ![image](https://github.com/user-attachments/assets/5c725c9a-6bd5-4aed-a1d9-00657986db71)
+![image](https://github.com/user-attachments/assets/5b19f993-afb1-452f-8952-6ff6d3ab9471)
+
+
 
 
 
