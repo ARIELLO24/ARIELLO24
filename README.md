@@ -9,7 +9,7 @@ I'm a programmer passionate about technology and innovation.
 
 - **Programming Languages**: Python, JavaScript, TypeScript, Java
 - **Frameworks**: React, Node.js
-- **Tools**: Git, Docker
+- **Tools**: Git
 - **Other Skills**: Agile Development, Automated Testing, DevOps
   
 ![image](https://github.com/user-attachments/assets/4d72d593-25f0-46fa-9324-7dc2e13f41bb)
