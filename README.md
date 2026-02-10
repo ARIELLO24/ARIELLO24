@@ -7,7 +7,7 @@ I'm a programmer passionate about technology and innovation.
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, TypeScript, Java
+- **Programming Languages**: JavaScript, TypeScript, Java
 - **Frameworks**: React, Node.js
 - **Tools**: Git
 - **Other Skills**: Agile Development, Automated Testing, DevOps
@@ -29,7 +29,7 @@ I'm a programmer passionate about technology and innovation.
 
 ### Project 1: Portifolio-24
 
-- **Description**:A portfolio to demonstrate my prostitute skills.
+- **Description**:A portfolio to demonstrate my skills.
 - **Technologies Used**: HTML, CSS, JavaScript
 
 ---
