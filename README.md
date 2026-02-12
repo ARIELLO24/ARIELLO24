@@ -7,9 +7,9 @@ I'm a programmer passionate about technology and innovation.
 
 ## Skills
 
-- **Programming Languages**: JavaScript, TypeScript, Java
+- **Programming Languages**: JavaScript, TypeScript, python, Java
 - **Frameworks**: React, Node.js
-- **Tools**: Git
+- **Tools**: Git, github
 - **Other Skills**: Agile Development, Automated Testing, DevOps
   
 ![image](https://github.com/user-attachments/assets/4d72d593-25f0-46fa-9324-7dc2e13f41bb)
